@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(void){
-    cout<<"°¢Ã÷(Ã«ÍñÙ»),ÎÒ°®Äã!"<<endl;
+    cout<<"é˜¿æ˜Ž(æ¯›å©‰å€©),æˆ‘çˆ±ä½ !"<<endl;
     return 0;
 }
